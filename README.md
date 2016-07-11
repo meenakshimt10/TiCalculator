@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough 
+## Video Walkthrough : https://github.com/meenakshimt10/TipCalculator/blob/master/tipCalci.gif
 
 Here's a walkthrough of implemented user stories:
 
